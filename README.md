@@ -7,7 +7,7 @@
 ## Description
 Research project for CSV 1980-1990 employment data   
 
-![app_image](export.png)
+![app_image](EmployeeSQL.QUICKDBD-export.png)
 
 ## Table of Contents
 - [Installation](#installation)
